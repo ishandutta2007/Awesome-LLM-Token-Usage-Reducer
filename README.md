@@ -83,7 +83,7 @@ The table below compiles premier hosted platforms and managed AI proxies that de
 
 ### 🔥 Top Open-Source Repositories (Ranked by Stars)
 
-Each open-source repository is indexed below and strictly sorted by **GitHub Stargazer Count** in descending order. Star badges link directly to the respective repo's stargazers page:
+Each open-source repository is indexed below and strictly sorted by **GitHub Stargazer Count** in descending order. Stars_Badges link directly to the respective repo's stargazers page:
 
 1. ### **[Graphify](https://github.com/Graphify-Labs/graphify)** [![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=social&color=white)](https://github.com/Graphify-Labs/graphify/stargazers)
    - **Focus**: Codebase knowledge graph extraction for ultra-lean queries.
@@ -202,7 +202,7 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 2. **Add or update an entry** in `README.md`.
    - Maintain the alphabetical or sorted structure.
    - For SaaS products, include verifiable starting prices, specific free tier limits, and valuation/revenue metrics.
-   - For open-source tools, include the repository URL, social star badge linked to `/stargazers`, and a concise 2–3 sentence description.
+   - For open-source tools, include the repository URL, social Stars_Badge linked to `/stargazers`, and a concise 2–3 sentence description.
 3. **Ensure semantic clarity**: Focus strictly on verifiable token reduction capabilities and benchmarks.
 4. **Submit a Pull Request** with a clear explanation of your additions.
 
@@ -230,3 +230,12 @@ Thank you for exploring **Awesome-LLM-Token-Usage-Reducer**! If this curated rep
 <div align="center">
   <sub>Curated with care by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the global open-source AI community.</sub>
 </div>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-LLM-Token-Usage-Reducer&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-LLM-Token-Usage-Reducer_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-LLM-Token-Usage-Reducer_growth.svg">
+  </picture>
+</a>
