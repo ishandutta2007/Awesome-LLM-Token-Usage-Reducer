@@ -1,6 +1,6 @@
 # Awesome-LLM-Token-Usage-Reducer
 
-# Top LLM Token Usage Reducer Tools Ecosystem
+## Top LLM Token Usage Reducer Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Context Compression, Command Output Filtering & Prompt Efficiency*  
